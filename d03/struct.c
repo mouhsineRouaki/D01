@@ -46,7 +46,7 @@ int main(){
 	*/
 	//Challenge 2 : Structure avec Tableau
 	/*
-		struct Etudiant e = {"rouaki","mohsin",{20,18,19}};
+		struct Etudiant e = {"rouaki","mohsin",{20,18,19};
 		int i,length = sizeof(e.Notes)/sizeof(e.Notes[0]);
 		printf("nom = %s,prenom = %s,notes = \n",e.nom,e.prenom);
 		for (i = 0 ; i <length;i++ ){

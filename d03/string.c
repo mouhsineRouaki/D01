@@ -117,7 +117,6 @@ int main(){
 		}
 	*/
 	//Challenge 10 : Trouver un Sous-String
-	/*
 		char str[100],souStr[100];
 		int i,j,cmpTrouve = 0,cmp=0;
 		printf("donner le mot:\n");
@@ -141,7 +140,6 @@ int main(){
 		}else{
 			printf("sous string ne pas exist");
 		}
-	*/
 
 
 

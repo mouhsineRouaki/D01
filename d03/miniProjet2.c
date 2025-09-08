@@ -90,7 +90,7 @@ int main(){
 							ContactSupprimer[cmpHistorique] = Contacts[i];
 							cmpHistorique +=1;
 							for (j = i ; j < cmp;j++){
-								Contacts[i] = Contacts[i+1];
+								Contacts[j] = Contacts[j+1];
 							}
 							cmp-=1;
 							contactTrouver = 1;
